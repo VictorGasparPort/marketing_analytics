@@ -1,0 +1,15 @@
+https://www.kaggle.com/datasets/jackdaoud/marketing-data
+Marketing Analytics
+Practice Exploratory and Statistical Analysis with Marketing Data
+Context
+This data is publicly available on GitHub here. It can be utilized for EDA, Statistical Analysis, and Visualizations.
+
+Content
+The data set ifood_df.csv consists of 2206 customers of XYZ company with data on:
+
+Customer profiles
+Product preferences
+Campaign successes/failures
+Channel performance
+Acknowledgement
+I do not own this dataset. I am simply making it accessible on this platform via the public GitHub link.
